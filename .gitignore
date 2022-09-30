@@ -1,5 +1,8 @@
 # Compiled class file
 *.class
+.idea
+out
+Multithreading_task1.iml
 
 # Log file
 *.log
